@@ -6,6 +6,8 @@
 - **自动检测机械，固态硬盘数量**
 - **自动检测CPU核心数量**
 
+![image](https://github.com/NetDoge/PVE-manager-status/blob/main/status.jpg)
+
 #### 使用方法：
 
 可以一键执行下面：
